@@ -6,13 +6,13 @@ tags:
   - conference
 ---
 
-We invite your participation in several symposia that may be of interest to you for the upcoming [American Fisheries Society 151st Annual Meeting](https://afsannualmeeting.fisheries.org/), November 6-10 2021. If you are interested in providing an oral or poster presentation for any of these sessions, abstracts must be submitted via the [meeting website](https://www.cvent.com/c/abstracts/4a7e0453-afce-456d-8f4a-5aa9924d0431) by 8/16/21).
+We invite your participation in several symposia that may be of interest to you for the upcoming [American Fisheries Society 151st Annual Meeting](https://afsannualmeeting.fisheries.org/), November 6-10 2021. If you are interested in providing an oral or poster presentation for any of these sessions, abstracts must be submitted via the [meeting website](https://www.cvent.com/c/abstracts/4a7e0453-afce-456d-8f4a-5aa9924d0431) by **August 16th, 2021**.
 
 If you do end up submitting an abstract, can we kindly suggest that you also send the info directly to the symposia organizers. Please distribute this information widely to colleagues and students who may be interested in participating.
 
 More information about the following symposia can be found [here](https://afsannualmeeting.fisheries.org/preliminary-list-of-symposia/), or by contacting the organizers listed below.
 
-## 1: Addressing Data Standards and Integration into Stock Assessments from Non-traditional Sources.  
+## Addressing Data Standards and Integration into Stock Assessments from Non-traditional Sources  
 
 For this symposia, we solicit perspectives and state or federal case studies on effective practices that enabled the incorporation of new data types into stock assessments. Non-traditional data sources of interest include cooperative research, citizen science, electronic monitoring and reporting, and uncrewed systems and other advanced technologies. Papers are welcome with focus on the following topics:
 
@@ -20,9 +20,10 @@ For this symposia, we solicit perspectives and state or federal case studies on 
 - Calibration and comparison of traditional and new data sets
 - Issues that have triggered data being excluded from an assessment (and how that those challenges were overcome)
 - Effective ways to facilitate inclusion of new data sources
-- For questions, please contact the organizers: Kristan.Blackhart@noaa.gov, Melissa.Karp@noaa.gov, Abigail.Furnish@noaa.gov  
 
-## 2: Observational Void: Missing Data in Monitoring Programs and its Impact on Fishery Stock Assessment and Management.
+For questions, please contact the organizers: Kristan.Blackhart@noaa.gov, Melissa.Karp@noaa.gov, Abigail.Furnish@noaa.gov  
+
+## Observational Void: Missing Data in Monitoring Programs and its Impact on Fishery Stock Assessment and Management
 
 We welcome a range of papers that review common causes and types of missing data in your resource monitoring programs, as well as assessment-based approaches to dealing with missing data:
 
@@ -35,7 +36,7 @@ We look forward to discussing how the experience of missing data helps us rethin
 For questions, please contact the organizers: bai.li@noaa.gov, haley.oleynik@noaa.gov, christine.stawitz@noaa.gov, kisei.tanaka@noaa.gov, felipe.carvalho@noaa.gov, jennifer.samson@noaa.gov
 
 
-## 3: Growing Fisheries Research and Management Through Angler Engagement.
+## Growing Fisheries Research and Management Through Angler Engagement
 
 We are soliciting perspectives and case studies that bring anglers and scientists together to learn how these types of relationships get set up, what science emerges from them, and what is needed to make them thrive. An important outcome of this symposium will be a better understanding of the best practices that are necessary to achieve long-term angler engagement. Consistent with our theme of engaging anglers, we are also proposing to recruit anglers to this symposium, thereby providing a unique opportunity to put these ideas into practice. The conference is intended to be a hybrid of in-person and virtual participation, which will make it more accessible to anglers everywhere.
 
