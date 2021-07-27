@@ -25,9 +25,9 @@ Live workshops take place on Fridays from from 1-2pm ET (10-11am PT). All worksh
 | June 11  | [Key Git/GitHub skills](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week3.html)  |
 | June 18  | [Rmarkdown for reports](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week4.html)  |
 | June 25  | [Making plots with ggplot2](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week5.html)  |
-| July 9  | Creating R packages  |
-| July 16  | Documentation for R packages using Roxygen  |
-| July 23  | Creating landing pages using RStudio/R Markdown/GitHub and R packages landing pages using pkgdown  |
+| July 9  | [Intro to R packages](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week6.html)  |
+| July 16  | [Roxygen2 and pkgdown](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week7.html)  |
+| July 23  | [More R packaging](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week8.html)  |
 
 
 ## [Set-up instructions:](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/set-up.html)
