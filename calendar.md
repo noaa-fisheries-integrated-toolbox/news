@@ -7,7 +7,7 @@ sidebar:
   nav: "docs"
 ---
 
-[The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) team helps to plan, coordinate, and promote workshops, webinars, and trainings for NOAA Fisheries scientists and the general public. The following calendar features upcoming events related to stock assessment science, software development, data analysis, and more. Please reach out to the team at fisheries.toolbox@noaa.gov if you have questions. 
+[The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) team helps to plan, coordinate, and promote workshops, webinars, and trainings for NOAA Fisheries scientists and the general public. The following calendar features upcoming events related to stock assessment science, software development, data analysis, and more. Please [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/) if you have questions. 
 
 > For more detailed updates about upcoming events see the [FIT News update page](https://noaa-fisheries-integrated-toolbox.github.io/news/), and for archived workshops and trainings see the [FIT Resources page](https://noaa-fisheries-integrated-toolbox.github.io/resources/workshops/workshops-trainings/).
 
