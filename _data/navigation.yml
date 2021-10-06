@@ -19,6 +19,8 @@ docs:
     url: /tags/
   - title: "Calendar"
     url: /calendar/
+  - title: "NMFS R Users Group Calendar"
+    url: /R-calendar/   
     
   # - title: Recent Posts
   #   children:
