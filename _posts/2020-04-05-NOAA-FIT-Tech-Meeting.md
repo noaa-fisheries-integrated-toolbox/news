@@ -10,8 +10,9 @@ tags:
 
 NOAA Fisheries Integrated Toolbox (NOAA FIT) will hold monthly meetings which encompass information and work that falls under technical aspects of the toolbox and will now be called the NOAA FIT Technical Meeting.  Those involved in the development of tools, models, and resources related to any of the “drawers" of the toolbox are invited to attend.  For those that have also been attending the monthly NOAA FIT Steering Committee meetings, note that we will keep the steering committee meetings generally more focused on the planning and implementation of the toolboxes so as to more clearly differentiate these meetings.
 
-
 Each month the NOAA FIT Technical meeting will be focused on a technical topic, such as algorithms, cloud computing, user interface, programming conventions.. etc.  At the bottom of the agenda, there will be a space for everyone to add ideas for future meetings.
+
+> FIT Tech meetings take place from 3-4pm ET on the second Thursday of every month. To view upcoming Tech meetings and add them to your calendar, see the [FIT Calendar](https://noaa-fisheries-integrated-toolbox.github.io/news/calendar/). 
 
 
 ## Meeting Overview
