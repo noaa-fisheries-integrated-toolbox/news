@@ -19,3 +19,9 @@ tags:
 
 5. Once a post is created in the post folder [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and add your news post!
 
+### Build the site locally using github codespaces
+
+1. Open a codespace from this repo.
+2. In the terminal run `gem install bundler jekyll` (note: I'm not sure this is necessary)
+3. Then run `bundle update`
+4. Finally run `bundle exec jekyll serve`. This can be viewed using the "Ports" tab.
