@@ -9,18 +9,19 @@
 #     url: /about/
 
 docs:
-  - title: "About"
-    url: /about/
+
   - title: "Posts by Year"
     url: /posts/
   # - title: "Categories"
   #   url: /categories/
   - title: "Posts by Tags"
     url: /tags/
-  - title: "Calendar"
+  - title: "FIT Calendar"
     url: /calendar/
   - title: "NMFS R Users Group Calendar"
     url: /R-calendar/   
+  - title: "About"
+    url: /about/
     
   # - title: Recent Posts
   #   children:

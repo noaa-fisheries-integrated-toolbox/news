@@ -6,6 +6,17 @@ layout: home
 sidebar:
   nav: "docs"
 ---
+## Welcome to FIT News!
+
+Use the search bar or sidebar options ("Posts By Year", "Posts By Tags") to find resources
+about past events.
+
+## Looking for something else?
+
+Try the [FIT resources](https://noaa-fisheries-integrated-toolbox.github.io/resources).
+
+## Latest Posts
+
 <ul>
   {% for post in site.posts %}
     <li>
