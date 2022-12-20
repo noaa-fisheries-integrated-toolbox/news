@@ -1,10 +1,11 @@
 ---
-title: "REMOTE GIT Training"
+title: "Remote Git Training"
 date: 2020-04-07
 categories:
 tags:
-  - GIT
-  - Training
+  - git
+  - tutorials
+  - developer resources
 ---
 
 

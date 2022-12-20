@@ -4,7 +4,9 @@ date: 2021-06-01
 categories:
 tags:
   - R
-  - Training
+  - tutorials
+  - developer resources
+  - software user resources
 ---
 ## Practical R Workflow Workshop for NMFS Scientists
 

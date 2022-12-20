@@ -3,8 +3,9 @@ title: "NOAA FIT Technical Meetings"
 date: 2020-04-05
 categories:
 tags:
-  - Resources
-  - Training
+  - seminars
+  - tutorials
+  - developer resources
 ---
 
 > ***NOTE: Tech meetings have been paused beginning in January 2022 until further notice***

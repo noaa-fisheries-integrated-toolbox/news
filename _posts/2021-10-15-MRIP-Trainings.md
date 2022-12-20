@@ -3,7 +3,8 @@ title: "MRIP Data User Seminars"
 date: 2021-10-15
 categories:
 tags:
-  - seminar series
+  - seminars
+  - NOAA resources
 ---
 
 NOAA Fisheries’ [Marine Recreational Information Program](https://www.fisheries.noaa.gov/recreational-fishing-data/about-marine-recreational-information-program?utm_medium=email&utm_source=govdelivery) will kick off a series of educational seminars next month. The training sessions will provide stock assessors, fisheries analysts, and other data users with best practices for accessing, analyzing, and using recreational fishing data. Equipping data users with this information is an important step in the phased implementation of the agency’s Recreational Fishing Survey and Data Standards.

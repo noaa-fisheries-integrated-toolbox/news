@@ -3,8 +3,10 @@ title: "VAST 3.3.0"
 date: 2020-01-14
 categories:
 tags:
-  - VAST
-  - General Modeling
+  - software user resources
+  - general modeling drawer
+  - update
+  - software
 ---
 
 A new version of [VAST](https://james-thorson-noaa.github.io/VAST/)  has been posted to the github releases.
